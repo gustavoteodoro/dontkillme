@@ -1,0 +1,2 @@
+# dontkillme
+A simple manifest
